@@ -20,7 +20,7 @@
         "connects_to": ["Roofs","Dead_Tracks"],
         "exit_requires": {
             "Roofs": "|@Notebooks:4| AND |Safe Keys| AND |Sender|",
-            "Dead_Tracks": "|Tracker| AND |@Notebooks:4| AND |Safe Keys| AND |Sender|"
+            "Dead_Tracks": "|Tracker| AND |@Notebooks:4| AND |Safe Keys| AND |Sender| AND |Poncho| AND |Electric cables|"
         }
     },
     "Roofs": {
@@ -39,6 +39,18 @@
         "connects_to": ["Middeltown"]
     },
     "Middeltown": {
+        "connects_to": ["Jail"],
+        "exit_requires": {
+            "The_Sewers": "|Music cassette| AND |Hat| AND |Jacket| AND |Note for contactperson| AND |Atomic Battery|"
+        }
+    },
+    "Jail": {
+        "connects_to": ["Opperations_Room"],
+        "exit_requires": {
+            "The_Sewers": "|Atomic Battery| AND |Metro Keys|"
+        }
+    },
+    "Opperations_Room": {
         "connects_to": []
     }
 }

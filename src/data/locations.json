@@ -3,258 +3,340 @@
     "data": [
         {
             "name": "Play with the black cat",
-            "region": "In_the_Wall"
+            "region": "In_the_Wall",
+            "category": ["In the wall"]
         },
         {
             "name": "Play with the orange-white cat",
-            "region": "In_the_Wall"
+            "region": "In_the_Wall",
+            "category": ["In the wall"]
         },
         {
             "name": "Play with the white-orange cat",
-            "region": "In_the_Wall"
+            "region": "In_the_Wall",
+            "category": ["In the wall"]
         },
         {
             "name": "Sleep with the cats",
-            "region": "In_the_Wall"
+            "region": "In_the_Wall",
+            "category": ["In the wall"]
         },
         {
             "name": "Fall in the sewers",
-            "region": "In_the_Wall"
+            "region": "In_the_Wall",
+            "category": ["In the wall"]
         },
         {
             "name": "Bucket in vent",
             "region": "Dead_City",
-            "requires": "|Bucket|"
+            "requires": "|Bucket|",
+            "category": ["Dead City"]
         },
         {
             "name": "Break the window",
             "region": "Dead_City",
-            "requires": "|Bucket|"
+            "requires": "|Bucket|",
+            "category": ["Dead City"]
         },
         {
             "name": "Bap the robot",
             "region": "Dead_City",
-            "requires": "|Bucket|"
+            "requires": "|Bucket|",
+            "category": ["Dead City"]
         },
         {
             "name": "Escape the zurks",
             "region": "Dead_City",
-            "requires": "|Bucket|"
+            "requires": "|Bucket|",
+            "category": ["Dead City"]
         },
         {
             "name": "Barrel be rolling",
             "region": "Dead_City",
-            "requires": "|Bucket|"
+            "requires": "|Bucket|",
+            "category": ["Dead City"]
         },
         {
             "name": "Turn off the fan",
             "region": "Dead_City",
-            "requires": "|Bucket| AND |Battery:1|"
+            "requires": "|Bucket| AND |Battery:1|",
+            "category": ["Dead City"]
         },
         {
             "name": "Power the wall",
             "region": "The_Flat",
-            "requires": "|Battery:5|"
+            "requires": "|Battery:5|",
+            "category": ["The Flat"]
         },
         {
             "name": "Wake up B12",
             "region": "The_Flat",
-            "requires": "|Battery:5|"
+            "requires": "|Battery:5|",
+            "category": ["The Flat"]
         },
         {
             "name": "Open the Flat",
             "region": "The_Flat",
-            "requires": "|Keys|"
+            "requires": "|Keys|",
+            "category": ["The Flat"]
         },
         {
             "name": "The robots understand",
             "region": "Slums",
-            "requires": "|Postcard|"
+            "requires": "|Postcard|",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 1",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 2",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Energy Drink Speed 2k:3|",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 3",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 4",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 5",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 6",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Memory 7",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 1",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Small Fake(Music notes 1)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 2",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Music notes 2|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 3",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Nameless(Music notes 3)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 4",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|As you calculate tonight(Music notes 4)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 5",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Mornings(Music notes 5)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 6",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Cooling Down(Music notes 6)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 7",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Somewhat important information(Music notes 7)|",
+            "category": ["Slums"]
         },
         {
             "name": "Music notes 8",
-            "region": "Slums"
+            "region": "Slums",
+            "requires": "|Illegible information(Music notes 8)| AND |Mysterious note of locker|",
+            "category": ["Slums"]
         },
         {
             "name": "Drop the paint",
-            "region": "Slums"
+            "region": "Slums",
+            "category": ["Slums"]
         },
         {
             "name": "Open the safe with keys",
             "region": "Slums",
-            "requires": "|Safe Keys|"
+            "requires": "|Safe Keys|",
+            "category": ["Slums"]
         },
         {
-            "name": "Turn off the fan to The_Flat",
+            "name": "Turn off the fan to the Flat",
             "region": "Slums",
-            "requires": "|Battery:6|"
+            "requires": "|Battery:6|",
+            "category": ["Slums"]
         },
         {
             "name": "Show momo the postcard",
             "region": "Slums",
-            "requires": "|Postcard|"
+            "requires": "|Postcard|",
+            "category": ["Slums"]
         },
         {
             "name": "Show momo the notebooks",
             "region": "Slums",
-            "requires": "|@Notebooks:4| AND |Safe Keys|"
+            "requires": "|@Notebooks:4| AND |Safe Keys|",
+            "category": ["Slums"]
         },
         {
             "name": "Memory Roofs 1",
-            "region": "Roofs"
+            "region": "Roofs",
+            "category": ["Roofs"]
         },
         {
             "name": "Memory Roofs 2",
-            "region": "Roofs"
+            "region": "Roofs",
+            "category": ["Roofs"]
         },
         {
             "name": "Install The sender",
             "region": "Roofs",
-            "requires": "|Sender|"
+            "requires": "|Sender|",
+            "category": ["Roofs"]
         },
         {
             "name": "Open the hidden chamber",
             "region": "Slums",
-            "requires": "|Sender|"
+            "requires": "|@Notebooks:4| AND |Safe Keys| AND |Sender|",
+            "category": ["Slums"]
         },
         {
             "name": "Get the poncho for Elliot",
             "region": "Slums",
-            "requires": "|Sender| AND |Poncho| AND |Electric cables|"
+            "requires": "|Sender| AND |Poncho| AND |Electric cables|",
+            "category": ["Slums"]
         },
         {
             "name": "Memory dead tracks 1",
-            "region": "Dead_Tracks"
+            "region": "Dead_Tracks",
+            "category": ["Dead Tracks"]
         },
         {
             "name": "Memory dead tracks 2",
-            "region": "Dead_Tracks"
+            "region": "Dead_Tracks",
+            "category": ["Dead Tracks"]
         },
         {
             "name": "Meet Doc",
-            "region": "Dead_Tracks"
+            "region": "Dead_Tracks",
+            "category": ["Dead Tracks"]
         },
         {
             "name": "Get the Defluxor",
             "region": "Dead_Tracks",
-            "requires": "|Fuse|"
+            "requires": "|Fuse|",
+            "category": ["Dead Tracks"]
         },
         {
             "name": "Memory sewers 1",
-            "region": "The_Sewers"
+            "region": "The_Sewers",
+            "category": ["The Sewers"]
         },
         {
             "name": "Memory sewers 2",
-            "region": "The_Sewers"
+            "region": "The_Sewers",
+            "category": ["The Sewers"]
         },
         {
             "name": "Meet the big eye",
-            "region": "The_Sewers"
+            "region": "The_Sewers",
+            "category": ["The Sewers"]
         },
         {
             "name": "Save b12",
-            "region": "The_Sewers"
+            "region": "The_Sewers",
+            "category": ["The Sewers"]
         },
         {
             "name": "Meet Zbaltazar",
-            "region": "Antvillage"
+            "region": "Antvillage",
+            "category": ["Antvillage"]
         },
         {
             "name": "Give all plants to Malo",
-            "region": "Antvillage"
+            "region": "Antvillage",
+            "category": ["Antvillage"]
         },
         {
             "name": "Memory Middeltown 1",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Memory Middeltown 2",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Memory Middeltown 3",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Memory Middeltown 4",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Memory Middeltown 5",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Memory Middeltown 6",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "The cat badge",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "The necro badge",
-            "region": "Middeltown"
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         },
         {
             "name": "Find Clementine",
             "region": "Middeltown",
-            "victory": true
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Break the cameras",
+            "region": "Middeltown",
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Wake up the drunkards",
+            "region": "Middeltown",
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Play the loud music",
+            "region": "Middeltown",
+            "category": ["Middeltown"]
         }
     ]
 }

@@ -35,7 +35,7 @@
             "category": ["Slums"]
         },
         {
-            "name": "Music notes 1",
+            "name": "Small Fake(Music notes 1)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
@@ -45,32 +45,32 @@
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 3",
+            "name": "Nameless(Music notes 3)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 4",
+            "name": "As you calculate tonight(Music notes 4)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 5",
+            "name": "Mornings(Music notes 5)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 6",
+            "name": "Cooling Down(Music notes 6)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 7",
+            "name": "Somewhat important information(Music notes 7)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music notes 8",
+            "name": "Illegible information(Music notes 8)",
             "filler": true,
             "category": ["Slums", "Music notes"]
         },
@@ -156,6 +156,26 @@
         },
         {
             "name": "Metro Keys",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Note for contactperson",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Music cassette",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Hat",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Jacket",
             "progression": true,
             "category": ["Middeltown"]
         }
