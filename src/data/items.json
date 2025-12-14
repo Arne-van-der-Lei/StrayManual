@@ -10,6 +10,7 @@
         {
             "name": "Battery",
             "progression": true,
+            "early": true,
             "category": ["Other"],
             "count": 6
         },
@@ -31,47 +32,47 @@
         },
         {
             "name": "Mysterious note of locker",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums"]
         },
         {
             "name": "Small Fake Music note 1",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music note 2",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Nameless Music note 3",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "As you calculate tonight Music note 4",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Mornings Music note 5",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Cooling Down Music note 6",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Somewhat important information Music note 7",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Illegible information Music note 8",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Slums", "Music notes"]
         },
         {
@@ -136,17 +137,17 @@
         },
         {
             "name": "Yellow plant",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Purple plant",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Red plant",
-            "progression_deprioritized": true,
+            "progression": true,
             "category": ["Antvillage","Plants"]
         },
         {
