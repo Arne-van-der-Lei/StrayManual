@@ -31,38 +31,47 @@
         },
         {
             "name": "Mysterious note of locker",
+            "filler": true,
             "category": ["Slums"]
         },
         {
             "name": "Music notes 1",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 2",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Music c 3",
+            "name": "Music notes 3",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 4",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 5",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 6",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 7",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music notes 8",
+            "filler": true,
             "category": ["Slums", "Music notes"]
         },
         {
@@ -127,22 +136,27 @@
         },
         {
             "name": "Yellow plant",
+            "filler": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Purple plant",
+            "filler": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Red plant",
+            "filler": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Atomic Battery",
+            "progression": true,
             "category": ["Middeltown"]
         },
         {
             "name": "Metro Keys",
+            "progression": true,
             "category": ["Middeltown"]
         }
     ]
