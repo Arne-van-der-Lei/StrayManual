@@ -77,7 +77,7 @@
         {
             "name": "Open the Flat",
             "region": "The_Flat",
-            "requires": "|Keys|",
+            "requires": "|Battery:5| And |Keys|",
             "category": ["The Flat"]
         },
         {
@@ -369,9 +369,56 @@
             "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink|"
         },
         {
+            "name": "Reach Clementine",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|"
+        },
+        {
+            "name": "Reach Clementine",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|"
+        },
+        {
+            "name": "Let Clementine open the Jail door",
+            "region": "Jail",
+            "category": ["Jail"],
+            "requires": "|Jail Keys|"
+        },
+        {
+            "name": "Escape Security",
+            "region": "Jail",
+            "category": ["Jail"],
+            "requires": "|Jail Keys|"
+        },
+        {
+            "name": "Escape On the truck",
+            "region": "Jail",
+            "category": ["Jail"],
+            "requires": "|Jail Keys|"
+        },
+        {
+            "name": "Install the Atomic Battery",
+            "region": "Jail",
+            "category": ["Jail"],
+            "requires": "|Jail Keys| And |Atomic Battery|"
+        },
+        {
+            "name": "Use the metro",
+            "region": "Jail",
+            "category": ["Jail"],
+            "requires": "|Jail Keys| And |Atomic Battery| And |Metro Keys|"
+        },
+        {
+            "name": "Hack into the control room",
+            "region": "Control_Room",
+            "category": ["Control_Room"]
+        },
+        {
             "name": "Get Outside",
-            "region": "Opperations_Room",
-            "category": ["Opperations_Room"],
+            "region": "Control_Room",
+            "category": ["Control_Room"],
             "victory": true
         }
     ]

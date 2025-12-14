@@ -184,6 +184,16 @@
             "name": "Weird Drink",
             "progression": true,
             "category": ["Middeltown"]
+        },
+        {
+            "name": "Lever",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Jail Keys",
+            "progression": true,
+            "category": ["Jail"]
         }
     ]
 }

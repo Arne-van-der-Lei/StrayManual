@@ -13,7 +13,7 @@
     "The_Flat": {
         "connects_to": ["Slums"],
         "exit_requires": {
-            "Slums": "|Postcard| AND |Keys|"
+            "Slums": "|Postcard| AND |Keys| And |Battery:5|"
         }
     },
     "Slums": {
@@ -41,16 +41,16 @@
     "Middeltown": {
         "connects_to": ["Jail"],
         "exit_requires": {
-            "Jail": "|Music cassette| AND |Hat| AND |Jacket| AND |Note for contactperson| AND |Atomic Battery|"
+            "Jail": "|Music cassette| AND |Hat| AND |Jacket| AND |Note for contactperson| AND |Atomic Battery| And |Weird Drink| And |Lever|"
         }
     },
     "Jail": {
-        "connects_to": ["Opperations_Room"],
+        "connects_to": ["Control_Room"],
         "exit_requires": {
-            "Opperations_Room": "|Atomic Battery| AND |Metro Keys|"
+            "Control_Room": "|Jail Keys| And |Atomic Battery| And |Metro Keys|"
         }
     },
-    "Opperations_Room": {
+    "Control_Room": {
         "connects_to": []
     }
 }
