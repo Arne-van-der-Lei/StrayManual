@@ -4,415 +4,490 @@
         {
             "name": "Play with the black cat",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "hint_entrance": "In the wall (Chapter 1)"
         },
         {
             "name": "Play with the orange-white cat",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "hint_entrance": "In the wall (Chapter 1)"
         },
         {
             "name": "Play with the white-orange cat",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "hint_entrance": "In the wall (Chapter 1)"
         },
         {
             "name": "Sleep with the cats",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "hint_entrance": "In the wall (Chapter 1)"
         },
         {
             "name": "Fall in the sewers",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "hint_entrance": "In the wall (Chapter 1)"
         },
         {
             "name": "Bucket in vent",
             "region": "Dead_City",
             "requires": "|Bucket|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Break the window",
             "region": "Dead_City",
             "requires": "|Bucket|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Bap the robot",
             "region": "Dead_City",
             "requires": "|Bucket|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Escape the zurks",
             "region": "Dead_City",
             "requires": "|Bucket|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Barrel be rolling",
             "region": "Dead_City",
             "requires": "|Bucket|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Turn off the fan",
             "region": "Dead_City",
             "requires": "|Bucket| AND |Battery:1|",
-            "category": ["Dead City"]
+            "category": ["Dead City"],
+            "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Power the wall",
             "region": "The_Flat",
             "requires": "|Battery:5|",
-            "category": ["The Flat"]
+            "category": ["The Flat"],
+            "hint_entrance": "The Flat (Chapter 3)"
         },
         {
             "name": "Wake up B12",
             "region": "The_Flat",
             "requires": "|Battery:5|",
-            "category": ["The Flat"]
+            "category": ["The Flat"],
+            "hint_entrance": "The Flat (Chapter 3)"
         },
         {
             "name": "Open the Flat",
             "region": "The_Flat",
             "requires": "|Battery:5| And |Keys|",
-            "category": ["The Flat"]
+            "category": ["The Flat"],
+            "hint_entrance": "The Flat (Chapter 3)"
         },
         {
             "name": "The robots understand",
             "region": "Slums",
             "requires": "|Postcard|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 1",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 2",
             "region": "Slums",
             "requires": "|Energy Drink Speed 2k:3|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 3",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 4",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 5",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 6",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory 7",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 1",
             "region": "Slums",
             "requires": "|Small Fake Music note 1|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 2",
             "region": "Slums",
             "requires": "|Music note 2|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 3",
             "region": "Slums",
             "requires": "|Nameless Music note 3|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 4",
             "region": "Slums",
             "requires": "|As you calculate tonight Music note 4|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 5",
             "region": "Slums",
             "requires": "|Mornings Music note 5|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 6",
             "region": "Slums",
             "requires": "|Cooling Down Music note 6|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 7",
             "region": "Slums",
             "requires": "|Somewhat important information Music note 7|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Music note 8",
             "region": "Slums",
             "requires": "|Illegible information Music note 8| AND |Mysterious note of locker|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Drop the paint",
             "region": "Slums",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Open the safe with keys",
             "region": "Slums",
             "requires": "|Safe Keys|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Turn off the fan to the Flat",
             "region": "Slums",
             "requires": "|Battery:6|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Show momo the postcard",
             "region": "Slums",
             "requires": "|Postcard|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Show momo the notebooks",
             "region": "Slums",
             "requires": "|@Notebooks:4| AND |Safe Keys|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 4)"
         },
         {
             "name": "Memory Roofs 1",
             "region": "Roofs",
-            "category": ["Roofs"]
+            "category": ["Roofs"],
+            "hint_entrance": "Roofs (Chapter 5)"
         },
         {
             "name": "Memory Roofs 2",
             "region": "Roofs",
-            "category": ["Roofs"]
+            "category": ["Roofs"],
+            "hint_entrance": "Roofs (Chapter 5)"
         },
         {
             "name": "Install The sender",
             "region": "Roofs",
             "requires": "|Sender|",
-            "category": ["Roofs"]
+            "category": ["Roofs"],
+            "hint_entrance": "Roofs (Chapter 5)"
         },
         {
             "name": "Open the hidden chamber",
             "region": "Slums",
             "requires": "|@Notebooks:4| AND |Safe Keys| AND |Sender|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 6)"
         },
         {
             "name": "Get the poncho for Elliot",
             "region": "Slums",
             "requires": "|Sender| AND |Poncho| AND |Electric cables|",
-            "category": ["Slums"]
+            "category": ["Slums"],
+            "hint_entrance": "Slums (Chapter 6)"
         },
         {
             "name": "Memory dead tracks 1",
             "region": "Dead_Tracks",
-            "category": ["Dead Tracks"]
+            "category": ["Dead Tracks"],
+            "hint_entrance": "Dead Tracks (Chapter 7)"
         },
         {
             "name": "Memory dead tracks 2",
             "region": "Dead_Tracks",
-            "category": ["Dead Tracks"]
+            "category": ["Dead Tracks"],
+            "hint_entrance": "Dead Tracks (Chapter 7)"
         },
         {
             "name": "Meet Doc",
             "region": "Dead_Tracks",
-            "category": ["Dead Tracks"]
+            "category": ["Dead Tracks"],
+            "hint_entrance": "Dead Tracks (Chapter 7)"
         },
         {
             "name": "Get the Defluxor",
             "region": "Dead_Tracks",
             "requires": "|Fuse|",
-            "category": ["Dead Tracks"]
+            "category": ["Dead Tracks"],
+            "hint_entrance": "Dead Tracks (Chapter 7)"
         },
         {
             "name": "Memory sewers 1",
             "region": "The_Sewers",
-            "category": ["The Sewers"]
+            "category": ["The Sewers"],
+            "hint_entrance": "The Sewers (Chapter 8)"
         },
         {
             "name": "Memory sewers 2",
             "region": "The_Sewers",
-            "category": ["The Sewers"]
+            "category": ["The Sewers"],
+            "hint_entrance": "The Sewers (Chapter 8)"
         },
         {
             "name": "Meet the big eye",
             "region": "The_Sewers",
-            "category": ["The Sewers"]
+            "category": ["The Sewers"],
+            "hint_entrance": "The Sewers (Chapter 8)"
         },
         {
             "name": "Save b12",
             "region": "The_Sewers",
-            "category": ["The Sewers"]
+            "category": ["The Sewers"],
+            "hint_entrance": "The Sewers (Chapter 8)"
         },
         {
             "name": "Meet Zbaltazar",
             "region": "Antvillage",
-            "category": ["Antvillage"]
+            "category": ["Antvillage"],
+            "hint_entrance": "Antvillage (Chapter 9)"
         },
         {
             "name": "Give all plants to Malo",
             "region": "Antvillage",
-            "category": ["Antvillage"]
+            "category": ["Antvillage"],
+            "hint_entrance": "Antvillage (Chapter 9)"
         },
         {
             "name": "Memory Middeltown 1",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Memory Middeltown 2",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Memory Middeltown 3",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Memory Middeltown 4",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Memory Middeltown 5",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Memory Middeltown 6",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "The cat badge",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "The necro badge",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Find Clementine",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Break the cameras",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Wake up the drunkards",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Play the loud music",
             "region": "Middeltown",
-            "category": ["Middeltown"]
+            "category": ["Middeltown"],
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Get into Neco Corp",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Steal The Battery",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Get To Clementine's room",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Get to the Club",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Trade The Weird Drink for the lever",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Reach Clementine",
             "region": "Middeltown",
             "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|"
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|",
+            "hint_entrance": "Middeltown (Chapter 10)"
         },
         {
             "name": "Let Clementine open the Jail door",
             "region": "Jail",
             "category": ["Jail"],
-            "requires": "|Jail Keys|"
+            "requires": "|Jail Keys|",
+            "hint_entrance": "Jail (Chapter 11)"
         },
         {
             "name": "Escape Security",
             "region": "Jail",
             "category": ["Jail"],
-            "requires": "|Jail Keys|"
+            "requires": "|Jail Keys|",
+            "hint_entrance": "Jail (Chapter 11)"
         },
         {
             "name": "Escape On the truck",
             "region": "Jail",
             "category": ["Jail"],
-            "requires": "|Jail Keys|"
+            "requires": "|Jail Keys|",
+            "hint_entrance": "Jail (Chapter 11)"
         },
         {
             "name": "Install the Atomic Battery",
             "region": "Jail",
             "category": ["Jail"],
-            "requires": "|Jail Keys| And |Atomic Battery|"
+            "requires": "|Jail Keys| And |Atomic Battery|",
+            "hint_entrance": "Jail (Chapter 11)"
         },
         {
             "name": "Use the metro",
             "region": "Jail",
             "category": ["Jail"],
-            "requires": "|Jail Keys| And |Atomic Battery| And |Metro Keys|"
+            "requires": "|Jail Keys| And |Atomic Battery| And |Metro Keys|",
+            "hint_entrance": "Jail (Chapter 11)"
         },
         {
             "name": "Hack into the control room",
             "region": "Control_Room",
-            "category": ["Control_Room"]
+            "category": ["Control_Room"],
+            "hint_entrance": "Control Room (Chapter 12)"
         },
         {
             "name": "Get Outside",
             "region": "Control_Room",
             "category": ["Control_Room"],
+            "hint_entrance": "Control Room (Chapter 12)",
             "victory": true
         }
     ]
