@@ -41,13 +41,13 @@
     "Middeltown": {
         "connects_to": ["Jail"],
         "exit_requires": {
-            "The_Sewers": "|Music cassette| AND |Hat| AND |Jacket| AND |Note for contactperson| AND |Atomic Battery|"
+            "Jail": "|Music cassette| AND |Hat| AND |Jacket| AND |Note for contactperson| AND |Atomic Battery|"
         }
     },
     "Jail": {
         "connects_to": ["Opperations_Room"],
         "exit_requires": {
-            "The_Sewers": "|Atomic Battery| AND |Metro Keys|"
+            "Opperations_Room": "|Atomic Battery| AND |Metro Keys|"
         }
     },
     "Opperations_Room": {
