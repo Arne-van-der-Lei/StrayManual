@@ -4,8 +4,7 @@
         {
             "name": "Play with the black cat",
             "region": "In_the_Wall",
-            "category": ["In the wall"],
-            "place_item": ["Bucket"]
+            "category": ["In the wall"]
         },
         {
             "name": "Play with the orange-white cat",
