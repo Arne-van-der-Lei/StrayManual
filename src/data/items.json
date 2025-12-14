@@ -31,47 +31,47 @@
         },
         {
             "name": "Mysterious note of locker",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums"]
         },
         {
             "name": "Small Fake Music note 1",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Music note 2",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Nameless Music note 3",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "As you calculate tonight Music note 4",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Mornings Music note 5",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Cooling Down Music note 6",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Somewhat important information Music note 7",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
             "name": "Illegible information Music note 8",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Slums", "Music notes"]
         },
         {
@@ -136,17 +136,17 @@
         },
         {
             "name": "Yellow plant",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Purple plant",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Antvillage","Plants"]
         },
         {
             "name": "Red plant",
-            "filler": true,
+            "progression_deprioritized": true,
             "category": ["Antvillage","Plants"]
         },
         {
@@ -176,6 +176,11 @@
         },
         {
             "name": "Jacket",
+            "progression": true,
+            "category": ["Middeltown"]
+        },
+        {
+            "name": "Weird Drink",
             "progression": true,
             "category": ["Middeltown"]
         }

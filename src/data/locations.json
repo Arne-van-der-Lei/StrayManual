@@ -340,6 +340,42 @@
             "category": ["Middeltown"]
         },
         {
+            "name": "Get into Neco Corp",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket|"
+        },
+        {
+            "name": "Steal The Battery",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+        },
+        {
+            "name": "Get To Clementine's room",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+        },
+        {
+            "name": "Get to the Club",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+        },
+        {
+            "name": "Get to the Club",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
+        },
+        {
+            "name": "Trade The Weird Drink for the lever",
+            "region": "Middeltown",
+            "category": ["Middeltown"],
+            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink|"
+        },
+        {
             "name": "Get Outside",
             "region": "Opperations_Room",
             "category": ["Opperations_Room"],
