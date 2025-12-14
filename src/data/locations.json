@@ -125,49 +125,49 @@
         {
             "name": "Music notes 1",
             "region": "Slums",
-            "requires": "|Small Fake(Music notes 1)|",
+            "requires": "|Small Fake Music note 1|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 2",
             "region": "Slums",
-            "requires": "|Music notes 2|",
+            "requires": "|Music note 2|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 3",
             "region": "Slums",
-            "requires": "|Nameless(Music notes 3)|",
+            "requires": "|Nameless Music note 3|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 4",
             "region": "Slums",
-            "requires": "|As you calculate tonight(Music notes 4)|",
+            "requires": "|As you calculate tonight Music note 4|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 5",
             "region": "Slums",
-            "requires": "|Mornings(Music notes 5)|",
+            "requires": "|Mornings Music note 5|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 6",
             "region": "Slums",
-            "requires": "|Cooling Down(Music notes 6)|",
+            "requires": "|Cooling Down Music note 6|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 7",
             "region": "Slums",
-            "requires": "|Somewhat important information(Music notes 7)|",
+            "requires": "|Somewhat important informationMusic note 7|",
             "category": ["Slums"]
         },
         {
             "name": "Music notes 8",
             "region": "Slums",
-            "requires": "|Illegible information(Music notes 8)| AND |Mysterious note of locker|",
+            "requires": "|Illegible information Music note 8| AND |Mysterious note of locker|",
             "category": ["Slums"]
         },
         {
