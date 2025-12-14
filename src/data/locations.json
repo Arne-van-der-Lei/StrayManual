@@ -218,7 +218,6 @@
         {
             "name": "Give all plants to Malo",
             "region": "Antvillage",
-            "requires": "|@Plants:3|"
         },
         {
             "name": "Memory Middeltown 1",
