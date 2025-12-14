@@ -2,459 +2,148 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Jill",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "sort-key": "row-0-1",
-            "classification_count": {"useful + progression": 1, "useful": 1},
-            "_comment": "In this example a copy of the 'Jill' item will be created that is useful & progression and another will be created just useful"
+            "name": "Bucket",
+            "progression": true,
+            "early": true,
+            "category": ["Dead City"]
         },
         {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
+            "name": "Battery",
             "progression": true,
-            "sort-key": "row-0-8"
+            "category": ["Other"],
+            "count": 6
         },
         {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
+            "name": "Keys",
             "progression": true,
-            "sort-key": "row-1-1"
+            "category": ["The Flat"]
         },
         {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Postcard",
             "progression": true,
-            "sort-key": "row-1-2"
+            "category": ["Other"]
         },
         {
-            "name": "Strider Hiryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Energy Drink Speed 2k",
             "progression": true,
-            "sort-key": "row-1-3"
+            "category": ["Other"],
+            "count": 4
         },
         {
-            "name": "Phoenix Wright",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-4"
+            "name": "Mysterious note of locker",
+            "category": ["Slums"]
         },
         {
-            "name": "Nova",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-5"
+            "name": "Music notes 1",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Ghost Rider",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-6"
+            "name": "Music notes 2",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-7"
+            "name": "Music c 3",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-8"
+            "name": "Music notes 4",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-1"
+            "name": "Music notes 5",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Arthur",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-2"
+            "name": "Music notes 6",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Frank West",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-3"
+            "name": "Music notes 7",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Vergil",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-4"
+            "name": "Music notes 8",
+            "category": ["Slums", "Music notes"]
         },
         {
-            "name": "Iron Fist",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Notebook of Clementine",
             "progression": true,
-            "sort-key": "row-2-5"
+            "category": ["Slums", "Notebooks"]
         },
         {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Notebook of Doc",
             "progression": true,
-            "sort-key": "row-2-6"
+            "category": ["Slums", "Notebooks"]
         },
         {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Notebook of Zbaltazar",
             "progression": true,
-            "sort-key": "row-2-7"
+            "category": ["Slums", "Notebooks"]
         },
         {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Notebook of Momo",
             "progression": true,
-            "sort-key": "row-2-8"
+            "category": ["Slums", "Notebooks"]
         },
         {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Safe Keys",
             "progression": true,
-            "sort-key": "row-3-1"
+            "category": ["Slums"]
         },
         {
-            "name": "Zero",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Sender",
             "progression": true,
-            "sort-key": "row-3-2"
+            "category": ["Slums"]
         },
         {
-            "name": "Ryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Super spirit",
             "progression": true,
-            "sort-key": "row-3-3"
+            "category": ["Slums"]
         },
         {
-            "name": "Dante",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
+            "name": "Tracker",
             "progression": true,
-            "sort-key": "row-3-4"
+            "category": ["Slums"]
         },
         {
-            "name": "Deadpool",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Electric cables",
             "progression": true,
-            "sort-key": "row-3-5"
+            "category": ["Slums"]
         },
         {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Poncho",
             "progression": true,
-            "sort-key": "row-3-6"
+            "category": ["Slums"]
         },
         {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Fuse",
             "progression": true,
-            "sort-key": "row-3-7"
+            "category": ["Dead Tracks"]
         },
         {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
+            "name": "Defluxor",
             "progression": true,
-            "sort-key": "row-3-8"
+            "category": ["Dead Tracks"]
         },
         {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-1"
+            "name": "Yellow plant",
+            "category": ["Antvillage","Plants"]
         },
         {
-            "name": "Tron",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-2"
+            "name": "Purple plant",
+            "category": ["Antvillage","Plants"]
         },
         {
-            "name": "Chun-Li",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-3"
+            "name": "Red plant",
+            "category": ["Antvillage","Plants"]
         },
         {
-            "name": "Trish",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-4"
+            "name": "Atomic Battery",
+            "category": ["Middeltown"]
         },
         {
-            "name": "X-23",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-5"
-        },
-        {
-            "name": "Storm",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-6"
-        },
-        {
-            "name": "Thor",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-7"
-        },
-        {
-            "name": "M.O.D.O.K.",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-8"
-        },
-        {
-            "name": "Felicia",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-1"
-        },
-        {
-            "name": "Spencer",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-2"
-        },
-        {
-            "name": "Akuma",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-3"
-        },
-        {
-            "name": "Viewtiful Joe",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-4"
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-5"
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-6"
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-7"
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-8"
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true,
-            "sort-key": "row-6-1"
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-2"
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-3"
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-4"
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-5"
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-6"
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-7"
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-8"
+            "name": "Metro Keys",
+            "category": ["Middeltown"]
         }
     ]
 }

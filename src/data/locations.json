@@ -2,330 +2,260 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "Beat the Game - Ryu",
-            "category": ["Starter Team", "Left Side"],
-            "region": "ExampleRegion"
+            "name": "Play with the black cat",
+            "region": "In the Wall"
         },
         {
-            "name": "Beat the Game - Chun-Li",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Chun-Li| or {YamlCompare(Example_Choice == 1)}"
+            "name": "Play with the orange-white cat",
+            "region": "In the Wall"
         },
         {
-            "name": "Beat the Game - Akuma",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Akuma| or {YamlCompare(Example_Toggle != True)}"
-        },
-
-        {
-            "name": "Beat the Game - Jill",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Jill| and {ItemValue(star:5)}"
+            "name": "Play with the white-orange cat",
+            "region": "In the Wall"
         },
         {
-            "name": "Beat the Game - Shuma-Gorath",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Shuma-Gorath|",
-            "hint_entrance": "Unlock Shuma-Gorath"
+            "name": "Sleep with the cats",
+            "region": "In the Wall"
         },
         {
-            "name": "Beat the Game - Nemesis T-Type",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Nemesis T-Type|"
+            "name": "Fall in the sewers",
+            "region": "In the Wall"
         },
         {
-            "name": "Beat the Game - Firebrand",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Firebrand|"
+            "name": "Bucket in vent",
+            "region": "Dead City",
+            "requires": "|Bucket|"
         },
         {
-            "name": "Beat the Game - Strider Hiryu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Strider Hiryu|"
+            "name": "Break the window",
+            "region": "Dead City",
+            "requires": "|Bucket|"
         },
         {
-            "name": "Beat the Game - Phoenix Wright",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Phoenix Wright|"
+            "name": "Bap the robot",
+            "region": "Dead City",
+            "requires": "|Bucket|"
         },
         {
-            "name": "Beat the Game - Nova",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Nova|"
+            "name": "Escape the zurks",
+            "region": "Dead City",
+            "requires": "|Bucket|"
         },
         {
-            "name": "Beat the Game - Ghost Rider",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Ghost Rider|"
+            "name": "Barrel be rolling",
+            "region": "Dead City",
+            "requires": "|Bucket|"
         },
         {
-            "name": "Beat the Game - Hawkeye",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hawkeye|"
+            "name": "Turn off the fan",
+            "region": "Dead City",
+            "requires": "|Bucket| AND |Battery:1|"
         },
         {
-            "name": "Beat the Game - Doctor Strange",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Strange|"
+            "name": "Power the wall",
+            "region": "The Flat",
+            "requires": "|Battery:5|"
         },
         {
-            "name": "Beat the Game - Chris",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Chris|"
+            "name": "Wake up B12",
+            "region": "The Flat",
+            "requires": "|Battery:5|"
         },
         {
-            "name": "Beat the Game - Arthur",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Arthur|"
+            "name": "Open The flat",
+            "region": "The Flat",
+            "requires": "|Keys|"
         },
         {
-            "name": "Beat the Game - Frank West",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Frank West|"
+            "name": "The robots understand",
+            "region": "Slums",
+            "requires": "|Postcard|"
         },
         {
-            "name": "Beat the Game - Vergil",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Vergil|"
+            "name": "Memory 1",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Iron Fist",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Fist|"
+            "name": "Memory 2",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Rocket Raccoon",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Rocket Raccoon|"
+            "name": "Memory 3",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Captain America",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Captain America|"
+            "name": "Memory 4",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Dormammu",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Dormammu|"
+            "name": "Memory 5",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Wesker",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Wesker|"
+            "name": "Memory 6",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Zero",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Zero|"
+            "name": "Memory 7",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Dante",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Dante|"
+            "name": "Music notes 1",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Deadpool",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Deadpool| or {YamlEnabled(free_deadpool)}"
+            "name": "Music notes 2",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Wolverine",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Wolverine|"
+            "name": "Music notes 3",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Iron Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Man|"
+            "name": "Music notes 4",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Doctor Doom",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Doom|"
+            "name": "Music notes 5",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Morrigan",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Morrigan|"
+            "name": "Music notes 6",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Tron",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Tron|"
+            "name": "Music notes 7",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Trish",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Trish|"
+            "name": "Music notes 8",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - X-23",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|X-23|"
+            "name": "Drop the paint",
+            "region": "Slums"
         },
         {
-            "name": "Beat the Game - Storm",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Storm|"
+            "name": "Open the safe with keys",
+            "region": "Slums",
+            "requires": "|Safe Keys|"
         },
         {
-            "name": "Beat the Game - Thor",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Thor|"
+            "name": "Turn off the fan to the flat",
+            "region": "Slums",
+            "requires": "|Battery:6|"
         },
         {
-            "name": "Beat the Game - M.O.D.O.K.",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|M.O.D.O.K.|"
+            "name": "Show momo the postcard",
+            "region": "Slums",
+            "requires": "|Postcard|"
         },
         {
-            "name": "Beat the Game - Felicia",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Felicia|"
+            "name": "Show momo the notebooks",
+            "region": "Slums",
+            "requires": "|@Notebooks:4| AND |Safe Keys|"
         },
         {
-            "name": "Beat the Game - Spencer",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Spencer|"
+            "name": "Memory Roofs 1",
+            "region": "Roofs"
         },
         {
-            "name": "Beat the Game - Viewtiful Joe",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Viewtiful Joe|"
+            "name": "Memory Roofs 2",
+            "region": "Roofs"
         },
         {
-            "name": "Beat the Game - Spider-Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Spider-Man|",
-            "prehint": true
+            "name": "Install The sender",
+            "region": "Roofs",
+            "requires": "|Sender|"
         },
         {
-            "name": "Beat the Game - Sentinel",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Sentinel|"
+            "name": "Open the hidden chamber",
+            "region": "Slums",
+            "requires": "|Sender|"
         },
         {
-            "name": "Beat the Game - Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hulk|"
+            "name": "Get the poncho for Elliot",
+            "region": "Slums",
+            "requires": "|Sender| AND |Poncho| AND |Electric cables|"
         },
         {
-            "name": "Beat the Game - Super-Skrull",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Super-Skrull|"
+            "name": "Memory Roofs 1",
+            "region": "Dead Tracks"
         },
         {
-            "name": "Beat the Game - Hsien-Ko",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Hsien-Ko|"
+            "name": "Memory Roofs 2",
+            "region": "Dead Tracks"
         },
         {
-            "name": "Beat the Game - Haggar",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Haggar|"
+            "name": "Meet Doc",
+            "region": "Dead Tracks"
         },
         {
-            "name": "Beat the Game - C. Viper",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|C. Viper|"
+            "name": "Get the Defluxor",
+            "region": "Dead Tracks",
+            "requires": "|Fuse|"
         },
         {
-            "name": "Beat the Game - Amaterasu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Amaterasu|"
+            "name": "Memory sewers 1",
+            "region": "The Sewers"
         },
         {
-            "name": "Beat the Game - Phoenix",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Phoenix|"
+            "name": "Memory sewers 2",
+            "region": "The Sewers"
         },
         {
-            "name": "Beat the Game - Magneto",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Magneto|"
+            "name": "Meet the big eye",
+            "region": "The Sewers"
         },
         {
-            "name": "Beat the Game - She-Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|She-Hulk|"
+            "name": "Save b12",
+            "region": "The Sewers"
         },
         {
-            "name": "Beat the Game - Taskmaster",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Taskmaster|"
-        },
-
-        {
-            "name": "We Saved the World!",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": [
-                "Jill",
-                "Shuma-Gorath",
-                "Nemesis T-Type",
-                "Firebrand",
-                "Strider Hiryu",
-                "Phoenix Wright",
-                "Nova",
-                "Ghost Rider",
-                "Hawkeye",
-                "Doctor Strange",
-                "Chris",
-                "Arthur",
-                "Frank West",
-                "Vergil",
-                "Iron Fist",
-                "Rocket Raccoon",
-                "Captain America",
-                "Dormammu",
-                "Wesker",
-                "Zero",
-                "Dante",
-                "Deadpool",
-                "Wolverine",
-                "Iron Man",
-                "Doctor Doom",
-                "Morrigan",
-                "Tron",
-                "Trish",
-                "X-23",
-                "Storm",
-                "Thor",
-                "M.O.D.O.K.",
-                "Felicia",
-                "Spencer",
-                "Viewtiful Joe",
-                "Spider-Man",
-                "Sentinel",
-                "Hulk",
-                "Super-Skrull",
-                "Hsien-Ko",
-                "Haggar",
-                "C. Viper",
-                "Amaterasu",
-                "Phoenix",
-                "Magneto",
-                "She-Hulk",
-                "Taskmaster"
-            ]
+            "name": "Meet Zbaltazar",
+            "region": "Antvillage"
         },
         {
-            "name": "Marvel%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Right Side:all|"
+            "name": "Give all plants to Malo",
+            "region": "Antvillage",
+            "requires": "|@Plants:3|"
         },
         {
-            "name": "Capcom%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Left Side:all|"
+            "name": "Memory Middeltown 1",
+            "region": "Middeltown"
         },
         {
-            "name": "Stars%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "{ItemValue(star:10)} and {ItemValue(coins:10)}"
+            "name": "Memory Middeltown 2",
+            "region": "Middeltown"
+        },
+        {
+            "name": "Memory Middeltown 3",
+            "region": "Middeltown"
+        },
+        {
+            "name": "Memory Middeltown 4",
+            "region": "Middeltown"
+        },
+        {
+            "name": "Memory Middeltown 5",
+            "region": "Middeltown"
+        },
+        {
+            "name": "Memory Middeltown 6",
+            "region": "Middeltown"
+        },
+        {
+            "name": "The cat badge",
+            "region": "Middeltown"
+        },
+        {
+            "name": "The necro badge",
+            "region": "Middeltown"
+        },
+        {
+            "name": "Find Clementine",
+            "region": "Middeltown",
+            "victory": true
         }
     ]
 }

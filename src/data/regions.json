@@ -1,18 +1,44 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
+    "In the Wall":{
+        "connects_to": ["Dead City"],
         "starting": true
     },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
+    "Dead City": {
+        "connects_to": ["The Flat"],
         "exit_requires": {
-            "Third Region": "|@Characters:5|"
+            "The Flat": "|Bucket| AND |Battery:1|"
         }
     },
-    "Third Region": {
+    "The Flat": {
+        "connects_to": ["Slums"],
+        "exit_requires": {
+            "Slums": "|Postcard| AND |Keys|"
+        }
+    },
+    "Slums": {
+        "connects_to": ["Roofs","Dead Tracks"],
+        "exit_requires": {
+            "Roofs": "|@Notebooks:4| AND |Safe Keys| AND |Sender|",
+            "Dead Tracks": "|Tracker| AND |@Notebooks:4| AND |Safe Keys| AND |Sender|"
+        }
+    },
+    "Roofs": {
+        "connects_to": ["Slums"]
+    },
+    "Dead Tracks": {
+        "connects_to": ["The Sewers"],
+        "exit_requires": {
+            "The Sewers": "|Defluxor| AND |Fuse|"
+        }
+    },
+    "The Sewers": {
+        "connects_to": ["Antvillage"]
+    },
+    "Antvillage": {
+        "connects_to": ["Middeltown"]
+    },
+    "Middeltown": {
         "connects_to": []
     }
 }
