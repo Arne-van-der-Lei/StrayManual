@@ -3,67 +3,67 @@
     "data": [
         {
             "name": "Play with the black cat",
-            "region": "In the Wall"
+            "region": "In_the_Wall"
         },
         {
             "name": "Play with the orange-white cat",
-            "region": "In the Wall"
+            "region": "In_the_Wall"
         },
         {
             "name": "Play with the white-orange cat",
-            "region": "In the Wall"
+            "region": "In_the_Wall"
         },
         {
             "name": "Sleep with the cats",
-            "region": "In the Wall"
+            "region": "In_the_Wall"
         },
         {
             "name": "Fall in the sewers",
-            "region": "In the Wall"
+            "region": "In_the_Wall"
         },
         {
             "name": "Bucket in vent",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket|"
         },
         {
             "name": "Break the window",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket|"
         },
         {
             "name": "Bap the robot",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket|"
         },
         {
             "name": "Escape the zurks",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket|"
         },
         {
             "name": "Barrel be rolling",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket|"
         },
         {
             "name": "Turn off the fan",
-            "region": "Dead City",
+            "region": "Dead_City",
             "requires": "|Bucket| AND |Battery:1|"
         },
         {
             "name": "Power the wall",
-            "region": "The Flat",
+            "region": "The_Flat",
             "requires": "|Battery:5|"
         },
         {
             "name": "Wake up B12",
-            "region": "The Flat",
+            "region": "The_Flat",
             "requires": "|Battery:5|"
         },
         {
-            "name": "Open The flat",
-            "region": "The Flat",
+            "name": "Open the Flat",
+            "region": "The_Flat",
             "requires": "|Keys|"
         },
         {
@@ -141,7 +141,7 @@
             "requires": "|Safe Keys|"
         },
         {
-            "name": "Turn off the fan to the flat",
+            "name": "Turn off the fan to The_Flat",
             "region": "Slums",
             "requires": "|Battery:6|"
         },
@@ -180,36 +180,36 @@
         },
         {
             "name": "Memory Roofs 1",
-            "region": "Dead Tracks"
+            "region": "Dead_Tracks"
         },
         {
             "name": "Memory Roofs 2",
-            "region": "Dead Tracks"
+            "region": "Dead_Tracks"
         },
         {
             "name": "Meet Doc",
-            "region": "Dead Tracks"
+            "region": "Dead_Tracks"
         },
         {
             "name": "Get the Defluxor",
-            "region": "Dead Tracks",
+            "region": "Dead_Tracks",
             "requires": "|Fuse|"
         },
         {
             "name": "Memory sewers 1",
-            "region": "The Sewers"
+            "region": "The_Sewers"
         },
         {
             "name": "Memory sewers 2",
-            "region": "The Sewers"
+            "region": "The_Sewers"
         },
         {
             "name": "Meet the big eye",
-            "region": "The Sewers"
+            "region": "The_Sewers"
         },
         {
             "name": "Save b12",
-            "region": "The Sewers"
+            "region": "The_Sewers"
         },
         {
             "name": "Meet Zbaltazar",

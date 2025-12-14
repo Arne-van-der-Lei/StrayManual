@@ -1,38 +1,38 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "In the Wall":{
-        "connects_to": ["Dead City"],
+    "In_the_Wall":{
+        "connects_to": ["Dead_City"],
         "starting": true
     },
-    "Dead City": {
-        "connects_to": ["The Flat"],
+    "Dead_City": {
+        "connects_to": ["The_Flat"],
         "exit_requires": {
-            "The Flat": "|Bucket| AND |Battery:1|"
+            "The_Flat": "|Bucket| AND |Battery:1|"
         }
     },
-    "The Flat": {
+    "The_Flat": {
         "connects_to": ["Slums"],
         "exit_requires": {
             "Slums": "|Postcard| AND |Keys|"
         }
     },
     "Slums": {
-        "connects_to": ["Roofs","Dead Tracks"],
+        "connects_to": ["Roofs","Dead_Tracks"],
         "exit_requires": {
             "Roofs": "|@Notebooks:4| AND |Safe Keys| AND |Sender|",
-            "Dead Tracks": "|Tracker| AND |@Notebooks:4| AND |Safe Keys| AND |Sender|"
+            "Dead_Tracks": "|Tracker| AND |@Notebooks:4| AND |Safe Keys| AND |Sender|"
         }
     },
     "Roofs": {
         "connects_to": ["Slums"]
     },
-    "Dead Tracks": {
-        "connects_to": ["The Sewers"],
+    "Dead_Tracks": {
+        "connects_to": ["The_Sewers"],
         "exit_requires": {
-            "The Sewers": "|Defluxor| AND |Fuse|"
+            "The_Sewers": "|Defluxor| AND |Fuse|"
         }
     },
-    "The Sewers": {
+    "The_Sewers": {
         "connects_to": ["Antvillage"]
     },
     "Antvillage": {
