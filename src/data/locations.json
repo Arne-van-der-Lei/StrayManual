@@ -364,12 +364,6 @@
             "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
         },
         {
-            "name": "Get to the Club",
-            "region": "Middeltown",
-            "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery|"
-        },
-        {
             "name": "Trade The Weird Drink for the lever",
             "region": "Middeltown",
             "category": ["Middeltown"],
