@@ -375,12 +375,6 @@
             "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|"
         },
         {
-            "name": "Reach Clementine",
-            "region": "Middeltown",
-            "category": ["Middeltown"],
-            "requires": "|Note for contactperson| And |Music cassette| And |Hat| And |Jacket| And |Atomic Battery| And |Weird Drink| And |Lever|"
-        },
-        {
             "name": "Let Clementine open the Jail door",
             "region": "Jail",
             "category": ["Jail"],
