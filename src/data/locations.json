@@ -4,7 +4,8 @@
         {
             "name": "Play with the black cat",
             "region": "In_the_Wall",
-            "category": ["In the wall"]
+            "category": ["In the wall"],
+            "place_item": ["Bucket"]
         },
         {
             "name": "Play with the orange-white cat",
@@ -337,6 +338,12 @@
             "name": "Play the loud music",
             "region": "Middeltown",
             "category": ["Middeltown"]
+        },
+        {
+            "name": "Get Outside",
+            "region": "Opperations_Room",
+            "category": ["Opperations_Room"],
+            "victory": true
         }
     ]
 }
