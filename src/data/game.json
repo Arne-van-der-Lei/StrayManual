@@ -3,10 +3,10 @@
     "game": "Stray",
     "creator": "Talox",
 
-    "filler_item_name": "fil",
+    "filler_item_name": "Stray filler",
 
     "starting_items": [
     ],
-    "death_link": false,
+    "death_link": true,
     "starting_index": 1
 }
