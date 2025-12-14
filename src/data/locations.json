@@ -179,11 +179,11 @@
             "requires": "|Sender| AND |Poncho| AND |Electric cables|"
         },
         {
-            "name": "Memory Roofs 1",
+            "name": "Memory dead tracks 1",
             "region": "Dead_Tracks"
         },
         {
-            "name": "Memory Roofs 2",
+            "name": "Memory dead tracks 2",
             "region": "Dead_Tracks"
         },
         {
