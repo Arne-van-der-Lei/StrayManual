@@ -263,7 +263,7 @@
         {
             "name": "Get the poncho for Elliot",
             "region": "Slums",
-            "requires": "|Sender| AND |Poncho| AND |Electric cables|",
+            "requires": "|Sender| AND |Poncho| AND |Electric cables| And |@Notebooks:4| And |Tracker|",
             "category": ["Slums"],
             "hint_entrance": "Slums (Chapter 6)"
         },
@@ -275,6 +275,12 @@
         },
         {
             "name": "Memory dead tracks 2",
+            "region": "Dead_Tracks",
+            "category": ["Dead Tracks"],
+            "hint_entrance": "Dead Tracks (Chapter 7)"
+        },
+        {
+            "name": "Memory dead tracks 3",
             "region": "Dead_Tracks",
             "category": ["Dead Tracks"],
             "hint_entrance": "Dead Tracks (Chapter 7)"
