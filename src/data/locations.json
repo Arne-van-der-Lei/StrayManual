@@ -69,26 +69,28 @@
         {
             "name": "Turn off the fan",
             "region": "Dead_City",
-            "requires": "|Bucket|",
+            "requires": "|Bucket| AND |Battery:1|",
             "category": ["Dead City"],
             "hint_entrance": "Dead City (Chapter 2)"
         },
         {
             "name": "Power the wall",
             "region": "The_Flat",
+            "requires": "|Battery:5|",
             "category": ["The Flat"],
             "hint_entrance": "The Flat (Chapter 3)"
         },
         {
             "name": "Wake up B12",
             "region": "The_Flat",
+            "requires": "|Battery:5|",
             "category": ["The Flat"],
             "hint_entrance": "The Flat (Chapter 3)"
         },
         {
             "name": "Open the Flat",
             "region": "The_Flat",
-            "requires": "|Keys|",
+            "requires": "|Battery:5| And |Keys|",
             "category": ["The Flat"],
             "hint_entrance": "The Flat (Chapter 3)"
         },
