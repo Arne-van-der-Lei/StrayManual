@@ -8,13 +8,6 @@
             "category": ["Dead City"]
         },
         {
-            "name": "Battery",
-            "progression": true,
-            "early": true,
-            "category": ["Other"],
-            "count": 6
-        },
-        {
             "name": "Keys",
             "progression": true,
             "category": ["The Flat"]
