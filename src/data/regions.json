@@ -7,13 +7,13 @@
     "Dead_City": {
         "connects_to": ["The_Flat"],
         "exit_requires": {
-            "The_Flat": "|Bucket| AND |Battery:1|"
+            "The_Flat": "|Bucket|"
         }
     },
     "The_Flat": {
         "connects_to": ["Slums"],
         "exit_requires": {
-            "Slums": "|Postcard| AND |Keys| And |Battery:5|"
+            "Slums": "|Postcard| AND |Keys|"
         }
     },
     "Slums": {
